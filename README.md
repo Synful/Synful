@@ -9,7 +9,7 @@
   <li>I also have a all white blue & brown eye'd female husky named Blu who is very talkative.</li>
 </ul>
 
-<h2>My Current Projects</h2>
+<h2>Current Projects</h2>
 <ul>
   <li><a href="https://genisys.kiwi">Genisys</a> - A suite of game modification menus.</li>
   <li><a href="https://github.com/Synful/EdgeToolbox">Edge Tool Box</a> - A tool box to unlock the full potential of Edge vehicle tuners.</li>
