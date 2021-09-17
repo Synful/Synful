@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1>Welcome</h1>
 
-<!--
-**Synful/Synful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>My name is Casey, but most call me Synful.</h3>
 
-Here are some ideas to get you started:
+<h2>About me</h2>
+<ul>
+  <li>I'm an active programmer utilizing languages such as C#, C++, PHP, & HTML/CSS</li>
+  <li>I am very OCD when it comes to code organization.</li>
+  <li>I also have a all white blue & brown eye'd female husky named Blu who is very talkative.</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>My Current Projects</h2>
+<ul>
+  <li><a href="https://genisys.kiwi">Genisys</a> - A suite of game modification menus.</li>
+  <li><a href="https://github.com/Synful/EdgeToolbox">Edge Tool Box</a> - A tool box to unlock the full potential of Edge vehicle tuners.</li>
+  <li><a href="https://github.com/Synful/SCTToolKit">SCT Tool Kit</a> - A wip tool kit to unlock the full potential of SCT vehicle tuners.</li>
+</ul>
+
+<h2>My stats</h2>
+
+<img src="https://github-readme-stats.vercel.app/api?username=synful&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=synful&theme=radical&layout=compact">
