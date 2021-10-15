@@ -12,7 +12,7 @@
 <h2>Current Projects</h2>
 <ul>
   <li><a href="https://genisys.kiwi">Genisys</a> - A suite of game modification menus.</li>
-  <li><a href="https://github.com/Synful/EdgeToolbox">Edge Tool Box</a> - A tool box to unlock the full potential of Edge vehicle tuners.</li>
+  <li>Edge Tool Box - A tool box to unlock the full potential of Edge vehicle tuners.</li>
   <li>SCT Tool Kit - A wip tool kit to unlock the full potential of SCT vehicle tuners.</li>
 </ul>
 
