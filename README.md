@@ -6,7 +6,7 @@
 <ul>
   <li>I'm an active programmer utilizing languages such as C#, C++, PHP, & HTML/CSS</li>
   <li>I am very OCD when it comes to code organization.</li>
-  <li>I also have a all white blue & brown eye'd female husky named Blu who is very talkative.</li>
+  <li>I also have an all white blue & brown eye'd female husky named Blu who is very talkative.</li>
 </ul>
 
 <h2>Current Projects</h2>
