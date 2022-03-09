@@ -17,4 +17,4 @@
 <h2>My stats</h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=synful&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=synful&theme=midnight-purple&layout=compact&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=synful&theme=midnight-purple&layout=compact">
