@@ -8,7 +8,6 @@ I'm a software engineer with 5+ years of experience in backend development, data
 
 **Languages & Frameworks**
 - C# / .NET
-- Python
 - C++
 - SQL
 - PHP
