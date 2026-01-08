@@ -1,20 +1,51 @@
-<h1>Welcome</h1>
+# Hi there, I'm Casey 👋
 
-<h3>My name is Casey, but most call me Synful.</h3>
+## Software Engineer | IT Specialist | Automotive Enthusiast
 
-<h2>About me</h2>
-<ul>
-  <li>I'm an active programmer utilizing languages such as C#, C++, PHP, & HTML/CSS</li>
-  <li>I am very OCD when it comes to code organization.</li>
-  <li>I also have an all white blue & brown eye'd female husky named Blu who is very talkative.</li>
-</ul>
+I'm a software engineer with 5+ years of experience in backend development, data engineering, and IT infrastructure. I enjoy building practical solutions and working with performance-oriented systems.
 
-<h2>Current Projects</h2>
-<ul>
-  <li>None</li>
-</ul>
+### 🔧 Tech Stack
 
-<h2>My stats</h2>
+**Languages & Frameworks**
+- C# / .NET
+- Python
+- C++
+- SQL
+- PHP
+- HTML/CSS
 
-<img src="https://github-readme-stats.vercel.app/api?username=synful&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=synful&theme=midnight-purple&layout=compact">
+**Specializations**
+- Backend Development
+- Data Engineering & ETL Pipelines
+- System Administration
+- Network Infrastructure
+- Microsoft Enterprise Systems
+
+### 💼 Current Focus
+
+- 🔍 Actively seeking remote opportunities in backend development, data engineering, and system administration
+- 🎯 Working on personal projects involving automotive systems and performance optimization
+- 📚 Expanding my technical expertise across full-stack development
+
+### 🚗 Beyond Code
+
+When I'm not coding, you'll find me:
+- Creating automotive content on TikTok ([@S4_Casey](https://www.tiktok.com/@S4_Casey))
+- Working on my 2013 Audi S4
+- Sharing DIY car modifications and repair guides
+- Staying active with structured fitness training
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=synful&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=synful&theme=midnight-purple&layout=compact)
+
+### 🛠️ Featured Projects
+
+**EdgeToolbox** - Desktop application providing full access and control for Edge Tuner devices  
+*C# | Windows Forms | Hardware Integration*
+
+---
+
+*"Clean code, organized structure, and attention to detail - that's how I build."*
