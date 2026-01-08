@@ -29,8 +29,7 @@ I'm a software engineer with 5+ years of experience in backend development, data
 ### 🚗 Beyond Code
 
 When I'm not coding, you'll find me:
-- Creating automotive content on TikTok ([@S4_Casey](https://www.tiktok.com/@S4_Casey))
-- Working on my 2013 Audi S4
+- Working on my 2013 Audi S4 and my 2008 Ford F250 along with other vehicles
 - Sharing DIY car modifications and repair guides
 - Staying active with structured fitness training
 
